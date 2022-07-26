@@ -1,2 +1,2 @@
-# Prediction-analysis--Maternal-health-risk-
+# Predictive-analysis--Maternal-health-risk-
 Using KNN algorithm
